@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a passionate web developer, I take immense joy in crafting <br>captivating websites that seamlessly merge creativity and functionality. <br> For me, web development is not just a profession but a thrilling <br>adventure, constantly seeking caches of inspiration and pushing the <br>boundaries to explore new horizons in the  digital world. Each project is<br> an exciting challenge.  we'll embark on an exciting journey of discovery <br>and innovation, as we navigate the digital landscape with curiosity,<br> finesse, and a touch of magic.
+As a passionate web developer, I take immense joy in crafting <br>captivating websites that seamlessly merge creativity and functionality. <br> For me, web development is not just a profession but a thrilling <br>adventure, constantly seeking caches of inspiration and pushing the <br>boundaries to explore new horizons in the  digital world. Each project is<br> an exciting challenge.
 
 
 ## 🌐 Socials:
